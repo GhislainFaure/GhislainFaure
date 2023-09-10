@@ -1,10 +1,10 @@
 <h1 align="center">Hello👋 </h1>
-<h3 align="center">I'm Ghislain Faure, a passionate full stack developer from France // Still Learning </h3>
+<h3 align="center">I'm Ghislain , a passionate full stack developer from France // Still Learning 🔌💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanmarcos&label=Profile%20views&color=f59b00&style=flat-square" alt="jordanmarcos" /> </p>
 
-- 🌱 I’m currently learning **Javascript , Node.js, postgresql , React**
-- 
+- 💻 I’m currently learning **Javascript , Node.js, postgresql , React**
+
 - 📫 How to reach me **ghislainfaure06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
