@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋 </h1>
 <h2 align="center">I'm Ghislain , a passionate full stack developer from France . Still Learning 🔌💡</h2>
 
-- 💻 I’m currently learning **Javascript , Node.js, postgresql , React** and progress 
+- 💻 I’m currently learning **Javascript , Node.js, postgresql , React** 
 
 
 - 📫 How to reach me **ghislainfaure06@gmail.com**
@@ -42,3 +42,11 @@
 ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=ffffff)
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=ffffff)
 ![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff)
+
+--------------------
+
+
+<iframe src="https://giphy.com/embed/YbXLZ6dymH758xSEbM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-computer-chatgpt-chat-gpt-YbXLZ6dymH758xSEbM">via GIPHY</a></p>
+
+
+
