@@ -1,7 +1,8 @@
-<h2 align="center">Hello👋 </h1>
-<h3 align="center">I'm Ghislain , a passionate full stack developer from France // Still Learning 🔌💡</h3>
+<h1 align="center">Hello👋 </h1>
+<h2 align="center">I'm Ghislain , a passionate full stack developer from France . Still Learning 🔌💡</h2>
 
-- 💻 I’m currently learning **Javascript , Node.js, postgresql , React**
+- 💻 I’m currently learning **Javascript , Node.js, postgresql , React** and progress 
+
 
 - 📫 How to reach me **ghislainfaure06@gmail.com**
 
