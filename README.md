@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **ghislainfaure06@gmail.com**
 
-## Connect with me 
-
-[![linkedin](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:ponsagathe37@gmail.com)
-
 --------------------
 
 ## Backend technologies
