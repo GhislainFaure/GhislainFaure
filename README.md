@@ -1,7 +1,5 @@
-<h1 align="center">Hello👋 </h1>
+<h2 align="center">Hello👋 </h1>
 <h3 align="center">I'm Ghislain , a passionate full stack developer from France // Still Learning 🔌💡</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanmarcos&label=Profile%20views&color=f59b00&style=flat-square" alt="jordanmarcos" /> </p>
 
 - 💻 I’m currently learning **Javascript , Node.js, postgresql , React**
 
