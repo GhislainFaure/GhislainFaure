@@ -7,10 +7,9 @@
 
 - 📫 How to reach me **ghislainfaure06@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Connect with me 
+
 [![linkedin](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:ponsagathe37@gmail.com)
-</p>
 
 --------------------
 
